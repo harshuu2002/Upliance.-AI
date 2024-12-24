@@ -317,3 +317,71 @@ Bar Values: Total Orders
 
 - To compare user engagement in terms of the number of orders placed against their average cooking session rating.
 - Identify highly engaged users with high ratings or potential users to target for improved engagement.
+
+### Findings
+
+#### 1. User Engagement
+- Users with higher average session ratings tend to place more orders:
+- Alice Johnson, Bob Smith, and Charlie Lee placed 3 orders each with average session ratings above 4.5.
+- Users like Grace King and Frank Green, despite high session ratings (5 and 4.8), placed fewer orders.
+- Average session rating strongly correlates with user activity, but external factors (e.g., user availability) may impact order frequency.
+
+#### 2. Revenue by Location
+- New York generated the highest revenue ($35), followed closely by Chicago ($32) and Los Angeles ($31).
+- Smaller markets like Miami ($11) and Austin ($13) contributed significantly less revenue, indicating potential growth opportunities in these areas.
+
+#### 3. Session-Order Time Gap
+- Negative values indicate shorter gaps between cooking sessions and orders, highlighting efficiency:
+- December 8th saw the highest time gap reduction (-2040), suggesting effective coordination.
+
+#### 4. Session Rating by Dish
+- Grilled Chicken and Spaghetti had the highest average session ratings (4.77 and 4.63 respectively) and were prepared in multiple sessions.
+- Breakfast dishes (e.g., Oatmeal) had lower session ratings (4.1) but were limited in frequency.
+
+#### 5. Revenue by Dish
+- Spaghetti and Grilled Chicken dominate revenue generation with $55.5 and $51, respectively.
+- Lunch options like Caesar Salad ($28) and Veggie Burger ($22) had moderate revenue, indicating potential for targeted lunch promotions.
+
+#### 6. Revenue and Orders by Age Group
+- The 26-35 age group contributed the highest revenue ($121), followed by 36-45 ($46) and 18-25 ($13).
+- Dinner is the preferred meal type across all age groups, with 5 orders from the 26-35 age bracket, highlighting it as the primary target audience.
+
+#### 7. Meal Type Insights
+- Dinner is the most frequent meal type with 8 orders, followed by Lunch (5) and Breakfast (3).
+- Conversion rates:
+Breakfast: 100% (all breakfast sessions converted to orders).
+Dinner: 87.5%.
+Lunch: 80%.
+
+#### 8. Average Cooking Session Duration
+- Dinner has the longest average duration (38.75 minutes), indicating its complexity and popularity.
+- Lunch (21 minutes) and Breakfast (23.33 minutes) are relatively faster to prepare.
+
+#### 9. User Behavior
+- Users are consistent with their favorite meals:
+- Alice Johnson (Dinner) generated $35.
+- Charlie Lee (Breakfast) contributed $32, indicating balanced meal-type preferences across top users.
+
+#### 10. Dish Popularity
+- Grilled Chicken and Spaghetti are tied for the top spot with 4 orders each.
+- Caesar Salad is the most popular lunch dish with 3 orders.
+- Breakfast dishes (e.g., Pancakes and Oatmeal) are less frequently ordered but highly rated.
+
+#### 11. Daily Revenue Trend
+- Revenue peaks on December 1st and 8th with $25 each day.
+- A consistent revenue pattern shows growth opportunities in scaling dinner services.
+
+#### 12. Dish Performance by Time of Day
+- Grilled Chicken and Spaghetti dominate dinner orders at night with high ratings (4.77 and 4.63).
+- Caesar Salad leads the lunch segment with a rating of 4.37.
+- Breakfast dishes (Oatmeal and Pancakes) perform well in the morning but have limited orders.
+
+
+### Key Business Insights
+
+- Focus on Dinner and Popular Dishes: Invest in improving dinner offerings, specifically Grilled Chicken and Spaghetti, to capitalize on their high ratings and revenue.
+- Target the 26-35 Age Group: This segment contributes the most revenue and orders, making them ideal for loyalty programs and personalized promotions.
+- Expand in Low-Revenue Locations: Cities like Miami and Austin present opportunities for growth through targeted marketing campaigns.
+- Improve Lunch and Breakfast Offerings: Boost these segments with promotions and faster preparation options to increase their contribution.
+- Enhance Cooking Session Experiences: Optimize session duration for high-demand dishes to improve satisfaction and engagement further.
+- Seasonal Promotions: Leverage the December peak in revenue to introduce seasonal campaigns, driving additional orders.
