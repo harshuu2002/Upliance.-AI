@@ -1,7 +1,5 @@
 # Upliance.-AI
 
-# Upliance
-
 ### Objective
 
 This project aims to analyze and visualize user behaviors, cooking sessions, and order patterns. The analysis identifies relationships between cooking session participation and order trends, explores demographic factors influencing user activity, and highlights popular dishes and meal types. The insights provide actionable recommendations for improving business operations and customer satisfaction.
